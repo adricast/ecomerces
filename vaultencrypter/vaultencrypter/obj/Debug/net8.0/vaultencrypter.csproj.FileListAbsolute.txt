@@ -1,0 +1,16 @@
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\bin\Debug\net8.0\vaultencrypter.exe
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\bin\Debug\net8.0\vaultencrypter.deps.json
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\bin\Debug\net8.0\vaultencrypter.runtimeconfig.json
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\bin\Debug\net8.0\vaultencrypter.dll
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\bin\Debug\net8.0\vaultencrypter.pdb
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultencrypter.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultencrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultencrypter.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultencrypter.AssemblyInfo.cs
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultencrypter.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultenc.379EEAAC.Up2Date
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultencrypter.dll
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\refint\vaultencrypter.dll
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultencrypter.pdb
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\vaultencrypter.genruntimeconfig.cache
+C:\Users\adria\source\repos\vaultencrypter\vaultencrypter\obj\Debug\net8.0\ref\vaultencrypter.dll

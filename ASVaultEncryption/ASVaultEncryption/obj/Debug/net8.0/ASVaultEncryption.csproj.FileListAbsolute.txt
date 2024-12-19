@@ -1,0 +1,11 @@
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\bin\Debug\net8.0\ASVaultEncryption.deps.json
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\bin\Debug\net8.0\ASVaultEncryption.dll
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\bin\Debug\net8.0\ASVaultEncryption.pdb
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\obj\Debug\net8.0\ASVaultEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\obj\Debug\net8.0\ASVaultEncryption.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\obj\Debug\net8.0\ASVaultEncryption.AssemblyInfo.cs
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\obj\Debug\net8.0\ASVaultEncryption.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\obj\Debug\net8.0\ASVaultEncryption.dll
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\obj\Debug\net8.0\refint\ASVaultEncryption.dll
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\obj\Debug\net8.0\ASVaultEncryption.pdb
+C:\Users\adria\source\repos\ASVaultEncryption\ASVaultEncryption\obj\Debug\net8.0\ref\ASVaultEncryption.dll
